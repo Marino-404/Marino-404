@@ -1,18 +1,19 @@
-Hola, Soy Marino👋
+👋 **Hola, Soy Marino**
 
-Actualmente estoy iniciando mi carrera como desarrollador de software frontend y diseñador UX/UI. Especializado en React y Next.js para el desarrollo y Figma para el diseño, con un enfoque directo en la creación de interfaces de usuario atractivas, escalables y altamente funcionales.
+💻 Desarrollador Frontend | 🚀 Diseñador UX/UI  
 
-<!--
-**Marino-404/Marino-404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Mi Objetivo es: 
 
-Here are some ideas to get you started:
+Crear experiencias digitales **intuitivas, atractivas, escalables y altamente funcionales**. Siempre estoy aprendiendo y explorando nuevas tecnologías.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+📫 **Contactame:**
+
+marinorova25@gmail.com
+ 
+
+
+
+
+
