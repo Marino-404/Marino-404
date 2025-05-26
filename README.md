@@ -1,4 +1,4 @@
-👋 **Hola, Soy Marino**
+**Hola, Soy Marino**
 
 💻 Desarrollador Frontend | 🚀 Diseñador UX/UI  
 
