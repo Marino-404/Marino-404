@@ -1,6 +1,6 @@
 **Hola, Soy Marino**
 
-💻 Desarrollador Frontend | 🚀 Diseñador UX/UI  
+Desarrollador Frontend  
 
 Mi Objetivo es: 
 
