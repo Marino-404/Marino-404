@@ -2,9 +2,7 @@
 
 Desarrollador Frontend  
 
-Mi Objetivo es: 
-
-Crear experiencias digitales **intuitivas, atractivas, escalables y altamente funcionales**. Siempre estoy aprendiendo y explorando nuevas tecnologías.  
+Me gusta crear experiencias digitales **intuitivas, atractivas, escalables y altamente funcionales**. Siempre estoy aprendiendo y explorando nuevas tecnologías.  
 
 ---
 
